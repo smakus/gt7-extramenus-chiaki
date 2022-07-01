@@ -1,5 +1,8 @@
 ![image](https://user-images.githubusercontent.com/108235690/175868206-c31cdd18-0a09-4d4f-b311-07a8202acfa5.png)
 
+
+FORKED and Edited for Chiaki default keybord mappings support, also includes an original (playstation remote play) script that is more optimized for slow connections.
+
 # gt7-extramenus
 Gran Turismo 7 v1.17 - Extra Menus AFK Exploit
 
