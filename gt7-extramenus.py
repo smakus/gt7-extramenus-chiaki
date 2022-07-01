@@ -99,9 +99,9 @@ def start_exploit(section):
     press("enter")
     press("enter")
     sleep(1)  # Exploiting
-    press("escape")
-    press("escape")
-    press("escape")
+    press("backspace")
+    press("backspace")
+    press("backspace")
     sleep(4)
 
     # Back to map to open ticket
@@ -130,8 +130,8 @@ def start_exploit(section):
 
     # Back out of tickets
     print(" [-] Going back to map.")
-    press("escape")
-    press("escape")
+    press("backspace")
+    press("backspace")
     sleep(3)
     press("left")  # Place cursor on Menu to start over
 
